@@ -1,10 +1,7 @@
-UFO HISTORY
+UFO History — maj, juni og juli 2024
 
-365 faste kalenderdage. Januar er kurateret. Februar-april er udfyldt med dokumenterede kalenderposter fra NUFORC og udvalgte historiske sager. Maj-juli indeholder udvalgte NUFORC-rapporter samt historiske anker-sager; øvrige datoer bruger appens online UAP Atlas-fallback.
+Denne build bygger videre på den fungerende UFO History-app.
 
-Kildeprincip:
-- National Archives / Project Blue Book til klassiske amerikanske sager.
-- NUFORC til rapportarkiv og moderne førstegangsberetninger.
-- Historiske kronologier bruges som sekundære kilder, når primærmateriale ikke er let tilgængeligt.
+Kildeprincip: konkrete observationer er hentet fra NUFORC’s måneds-/arkivindeks. Hvor en komplet enkeltstående rapport ikke er verificeret i byggegrundlaget, er dagen markeret som en tydelig arkivhenvisning i stedet for at opfinde en fortælling.
 
-En databasepost er ikke det samme som en verificeret observation. Mulige forklaringer vises som kildeoplysninger, ikke som endelige sandheder.
+NUFORC: https://nuforc.org/
