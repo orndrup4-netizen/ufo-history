@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#0b0d10"/>
+<defs><radialGradient id="g"><stop offset="0" stop-color="#dfe8ef" stop-opacity=".55"/><stop offset=".55" stop-color="#82909d" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs>
+<ellipse cx="610" cy="330" rx="330" ry="230" fill="url(#g)"/>
+<ellipse cx="610" cy="330" rx="95" ry="34" fill="#e7edf2" opacity=".78"/>
+<ellipse cx="610" cy="340" rx="155" ry="18" fill="#b9c5ce" opacity=".18"/>
+<path d="M0 540 Q300 500 600 550 T1200 525 V700 H0Z" fill="#111820"/>
+<text x="50%" y="635" text-anchor="middle" fill="#8f98a3" font-family="Arial,sans-serif" font-size="24" letter-spacing="4">ILLUSTRATION · IR SENSOR / GULF OF ADEN</text>
+</svg>

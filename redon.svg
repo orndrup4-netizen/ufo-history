@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+<defs><radialGradient id="g"><stop stop-color="d5d9df" stop-opacity=".7"/><stop offset="1" stop-color="d5d9df" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="500" fill="#0b0d10"/>
+<circle cx="450" cy="215" r="170" fill="url(#g)" opacity=".22"/>
+<g fill="#aeb5bf" opacity=".7"><circle cx="120" cy="100" r="2"/><circle cx="760" cy="90" r="2"/><circle cx="680" cy="180" r="1.5"/><circle cx="220" cy="190" r="1.5"/></g>
+<rect x="0" y="300" width="900" height="8" fill="#3a3f47"/><rect x="80" y="245" width="300" height="55" rx="8" fill="#555c66"/><circle cx="130" cy="305" r="25" fill="#20242a"/><circle cx="330" cy="305" r="25" fill="#20242a"/>
+<g transform="translate(450 205)">
+<ellipse cx="0" cy="0" rx="145" ry="42" fill="#6d747e"/>
+<ellipse cx="0" cy="-8" rx="70" ry="28" fill="#9da4ad"/>
+<ellipse cx="0" cy="7" rx="118" ry="20" fill="#30353c"/>
+<circle cx="-70" cy="14" r="7" fill="#e1e4e8"/><circle cx="-24" cy="20" r="7" fill="#e1e4e8"/><circle cx="24" cy="20" r="7" fill="#e1e4e8"/><circle cx="70" cy="14" r="7" fill="#e1e4e8"/>
+</g>
+<text x="30" y="465" fill="#9aa1ab" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">ILLUSTRATION · NOT A HISTORICAL PHOTOGRAPH</text>
+</svg>

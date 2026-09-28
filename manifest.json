@@ -1,0 +1,9 @@
+{
+  "name": "UFO History",
+  "short_name": "UFO History",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08090b",
+  "theme_color": "#090a0c",
+  "description": "Historiske UFO-hændelser — en dag ad gangen."
+}
