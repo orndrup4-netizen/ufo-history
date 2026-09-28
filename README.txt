@@ -1,12 +1,10 @@
-UFO HISTORY v0.6
+UFO HISTORY
 
-365 faste kalenderdage.
-Kuraterede hovedhistorier for de vigtigste historiske cases.
-Alle andre datoer har en online fallback til åbne, faktuelle UAP-data med link tilbage til originalkilden.
+365 faste kalenderdage. Januar er kurateret. Februar-april er nu udfyldt med dokumenterede kalenderposter fra NUFORC og udvalgte historiske Project Blue Book/NICAP-sager.
 
 Kildeprincip:
 - National Archives / Project Blue Book til klassiske amerikanske sager.
 - NUFORC til rapportarkiv og moderne førstegangsberetninger.
-- Den åbne UAP Atlas bruges kun til faktuelle felter i fallback-visningen; original rapporttekst kopieres ikke.
+- Historiske kronologier bruges som sekundære kilder, når primærmateriale ikke er let tilgængeligt.
 
-Når appen publiceres online, kan fallback'en levere en rapport på datoer, der endnu ikke har en kurateret hovedhistorie.
+Dokumentationsniveauet vises på hver historie. En databasepost er ikke det samme som en verificeret observation.
